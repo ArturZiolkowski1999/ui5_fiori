@@ -1,0 +1,5 @@
+<mvc:View controllerName="sap.demo.buttons.buttonspage.controller.Inputs" xmlns:mvc="sap.ui.core.mvc" displayBlock="true" xmlns="sap.m">
+    <!-- <ui5-input value="Input"></ui5-input> -->
+    <Input class="myInput" valueLiveUpdate="true" width="20%" />
+    
+</mvc:View>

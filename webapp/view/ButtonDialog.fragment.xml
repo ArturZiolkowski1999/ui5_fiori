@@ -1,0 +1,9 @@
+<core:FragmentDefinition xmlns="sap.m" xmlns:core="sap.ui.core">
+    <Dialog id="ButtonDialog" title="{i18n>emptyDialogText}">
+        <content>
+        </content>
+        <beginButton>
+            <Button text="{i18n>dialogCloseButtonText}" press=".onCloseDialog" />
+        </beginButton>
+    </Dialog>
+</core:FragmentDefinition>

@@ -1,0 +1,4 @@
+<mvc:View controllerName="sap.demo.buttons.buttonspage.controller.Buttons" xmlns:mvc="sap.ui.core.mvc" displayBlock="true" xmlns="sap.m">
+    <Button class="myButton" id="redButton" text="{i18n>redButtonText}" press=".onOpenDialog('{i18n>redButtonText}')" type='Reject' />
+    <Button class="myButton" id="greenButton" text="{i18n>greenButtonText}" press=".onOpenDialog('{i18n>greenButtonText}')" type='Accept' />
+</mvc:View>

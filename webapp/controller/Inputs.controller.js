@@ -1,5 +1,3 @@
-import "@ui5/webcomponents/dist/DatePicker";
-
 sap.ui.define([
     "sap/ui/core/mvc/Controller"
 ],

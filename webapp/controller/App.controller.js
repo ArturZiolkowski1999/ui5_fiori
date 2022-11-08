@@ -6,8 +6,7 @@ sap.ui.define(
       "use strict";
   
       return BaseController.extend("sap.demo.buttons.buttonspage.controller.App", {
-        onInit() {
-        },
+        onInit() {},
       });
     }
   );
